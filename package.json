@@ -35,7 +35,9 @@
     "url": "https://github.com/P3trur0/vue-country-flag/issues"
   },
   "homepage": "https://github.com/P3trur0/vue-country-flag/",
-  "dependencies": {},
+  "dependencies": {
+    "iso-3166-1": "^1.1.0"
+  },
   "devDependencies": {
     "@vue/test-utils": "^1.0.0-beta.29",
     "babel-core": "^6.26.3",
